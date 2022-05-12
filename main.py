@@ -15,5 +15,3 @@ if __name__ == '__main__':
         solve.main(filepath)
 
         check.main(filepath, summary_path)
-
-        print(t)
